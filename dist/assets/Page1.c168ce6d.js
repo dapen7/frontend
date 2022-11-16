@@ -1,0 +1,1 @@
+import{_ as n,o as e,c as a,F as s,r as t,a as r}from"./index.d2aad3ac.js";const _={},c={class:"page1Div"};function o(l,d){return e(),a("div",c,[(e(),a(s,null,t(1e3,i=>r("div",null," 111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111 ")),64))])}const f=n(_,[["render",o]]);export{f as default};
